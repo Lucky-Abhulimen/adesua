@@ -7,7 +7,6 @@ for(var i =1; i < 1000; i++){
 
 console.log(sum);
 
-
 var numbers = prompt("input some numbers");
 var result = [numbers[0]];
 for(var i =0; i < numbers.length; i++){
